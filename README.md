@@ -208,11 +208,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Pixabay** for royalty-free background music
 - **PyDub** for audio processing capabilities
 
-## 📞 Support
-
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/your-username/ai-podcast-generator/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/your-username/ai-podcast-generator/discussions)
-- 📧 **Email**: your-email@example.com
 
 ## 🌟 Star History
 
